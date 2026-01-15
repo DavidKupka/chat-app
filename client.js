@@ -15,3 +15,4 @@ socket.on('chat message', (msg) => {
     item.textContent = msg;
     messages.appendChild(item);
 });
+  
